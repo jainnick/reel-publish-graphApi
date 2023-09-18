@@ -126,6 +126,5 @@ Uploads a reel to a Facebook Page.
 
 ## 10. Postman Example <a name="postman-example"></a>
 
-For a Postman example, refer to the example provided in the attached document.
 ![image](https://github.com/jainnick/reel-publish-graphApi/assets/114552954/89c985cb-9b78-4707-9892-3379e61d1718)
 
