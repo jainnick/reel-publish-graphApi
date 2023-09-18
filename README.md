@@ -1,7 +1,7 @@
 # reel-publish-graphApi
-## Document: Posting Reels to Facebook Page API
+## Posting Reels to Facebook Page API
 
-This document provides an overview and usage instructions for an API that allows users to post reels to a Facebook Page using the Facebook Graph API.
+An overview and usage instructions for an API that allows users to post reels to a Facebook Page using the Facebook Graph API.
 
 ---
 
