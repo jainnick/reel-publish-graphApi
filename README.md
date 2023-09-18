@@ -14,13 +14,10 @@ An overview and usage instructions for an API that allows users to post reels to
    - [POST `/post-to-facebook`](#post-to-facebook)
 5. [Example Requests](#example-requests)
 6. [Error Handling](#error-handling)
-7. [Security Considerations](#security-considerations)
-8. [Rate Limiting](#rate-limiting)
-9. [Troubleshooting](#troubleshooting)
-10. [Versioning](#versioning)
-11. [Code: `app.js`](#appjs)
-12. [Environment Variables: `.env`](#env)
-13. [Postman Example](#postman-example)
+7. [Troubleshooting](#troubleshooting)
+8. [Code: `app.js`](#appjs)
+9. [Environment Variables: `.env`](#env)
+10. [Postman Example](#postman-example)
 
 ---
 
